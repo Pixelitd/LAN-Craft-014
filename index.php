@@ -1,18 +1,15 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" meta />
     <title>TITLE</title>
-    <style type="text/css" media="all">
-        body{
-            background-color: #6E4413;
-        }
-        h1{
-            color: #AEAEAE;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css" type="text/css" media="all" />
 </head>
+
 <body>
-    <h1>LANCraft014</h1>
+    <header id="title_bar" class="bar">LAN_Craft_014</header> <!-- Not yet sure about the name -->
+    <div id="box"></div>
 </body>
+
 </html>
