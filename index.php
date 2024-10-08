@@ -10,6 +10,7 @@
 <body>
     <header id="title_bar" class="bar">LAN_Craft_014</header> <!-- Not yet sure about the name -->
     <div id="box"></div>
+    <?php ?>
 </body>
 
 </html>
