@@ -2,5 +2,5 @@
 A project that we trying to make with little experience.
 
 ## TODO LIST:
-- [ ] Basic homepage
-- [ ] Local Serverlist (VPN)
+- [x] Basic homepage
+- [ ] Local Serverlist (Proxy or VPN)
